@@ -1,0 +1,77 @@
+[TrainFilters]
+HiQ=1
+ModQ=1
+LoQ=0
+?Q=0
+allQ=1
+RateQ=0
+SpQ=0
+[AllFilters]
+IgnoreAll=0
+[KERNOsp]
+NBHF=0
+Dol=0
+Sonar=0
+Other=0
+[KERNO]
+exclNonWUTS=0
+ExcludeMarked=0
+OnlyMarked=0
+ExcludeSedMins=0
+ExcludeSonarMins=0
+[EncSpN]
+SpN1=142
+SpN2=0
+SpN3=0
+SpN4=0
+SpN5=0
+[Encsp]
+SP1=1
+SP2=0
+SP3=0
+SP4=0
+Sonar=0
+unclassed=0
+[Encsp in use]
+Encsp in use=1
+[Train]
+minKHz=0
+maxKHz=255
+minNinTrainEdit=5
+minNinTrain=5
+maxNinTrain=999
+minPRF=1
+maxPRF=2000
+minSPL=1
+maxSPL=999
+[Click]
+minKHz=0
+maxKHz=255
+minDuration=0
+maxDuration=9999
+minSPL=0
+maxSPL=9999
+[Export]
+data group=7
+period=0
+File/Results=0
+time format=0
+min/Julian day=0
+SelectedTime=0
+SavedTime=0
+OmitHeaders=1
+SPLasPa=0
+ExportSightingsText=0
+Omit blanks=0
+multiple files=0
+[ExportFrom]
+File1=0
+File2=0
+File3=0
+[Encounters]
+SilentGap=10
+Graphs=0
+[BatchDetection]
+Clicks In Noisy Hours=100000
+[Files]
+DoNotFilterF1=0
