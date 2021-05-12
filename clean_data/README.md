@@ -1,0 +1,1 @@
+Clean data. `daily_data.csv` contains daily values for all metrics and stations. `imputed_data.csv` contains daily values for the DPH metric augmented with imputed values where missing, only stations 1032, 1036, 1041.
